@@ -1,2 +1,2 @@
 # spring-boot-java
-API Java com Spring Boot
+Soluções Java com Spring Boot
